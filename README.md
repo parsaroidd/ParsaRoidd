@@ -1,7 +1,9 @@
 ## ParsaRoidd coding HQ!!! 
 ```javascript
 let love_for_coding = ["C++", "python", "js"];
-let project = "Vanilla js";
+
+let project;
+
 if (project === "Vanilla js") {
     love_for_coding.push("passionate");
 } else if (project.includes("functional programming")) {
