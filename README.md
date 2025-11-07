@@ -1,18 +1,17 @@
 ## ParsaRoidd coding HQ!!! 
 ```javascript
-let love_for_coding = ["C++", "python", "js"]
-let project;
-if ( project === 'Vanilla js' ) {
+let love_for_coding = ["C++", "python", "js"];
+let project = "Vanilla js";
+if (project === "Vanilla js") {
     love_for_coding.push("passionate");
-}
-else if ( coding.includes("functional programming") ){
-    stuff.push("joy");
-}
-else if ( coding.includes("any of frame works in the wasteland of js frame works") ) {
-    stuff.splice(0, love_for_coding.length);
+} else if (project.includes("functional programming")) {
+    love_for_coding.push("joy");
+} else if (project.includes("any of frame works in the wasteland of js frame works")) {
+    love_for_coding.splice(0, love_for_coding.length);
 } else {
     alert("listening to Eminem");
 }
+
 ``` 
 
 <!--
