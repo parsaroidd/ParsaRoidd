@@ -34,8 +34,8 @@ if (project === "Vanilla js") {
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Ada_programming_language_logo.svg" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/TempleOS_logo.png" width="40" height="40"/>
+<img src="https://image2url.com/images/1762514906638-db770637-1681-468e-af87-f6e66966cdb0.png" width="40" height="40"/>
+<img src="https://image2url.com/images/1762429733360-84627763-e9aa-4cfd-a587-4e9fe5d043f1.jpg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/>
 </p>
 <!--
