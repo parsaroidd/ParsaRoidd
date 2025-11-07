@@ -25,39 +25,19 @@ if (project === "Vanilla js") {
 }
 
 ``` 
-<!-- Vim -->
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40" height="40"/>
-
-<!-- PowerShell -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="40" height="40"/>
-
-<!-- JavaScript -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-
-<!-- CSS -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-
-<!-- HTML -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-
-<!-- Git -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-
-<!-- Python -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-
-<!-- C++ -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-
-<!-- Ada (not in Devicon, use generic or custom icon) -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Ada_programming_language_logo.svg" width="40" height="40"/>
-
-<!-- TempleOS (no official icon, use placeholder or custom) -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/TempleOS_logo.png" width="40" height="40"/>
-
-<!-- Windows -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/>
-
+</p>
 <!--
 **parsaroidd/ParsaRoidd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
