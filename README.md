@@ -25,8 +25,8 @@ if (project === "Vanilla js") {
 }
 
 ```
-##this is stuff i wanna learn
-<p> 
+زخخمزز
+<p> cool stuff: 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40" height="40"/>
  <img src="https://image2url.com/images/1762429733360-84627763-e9aa-4cfd-a587-4e9fe5d043f1.jpg" width="40" height="50"/>
  <img src="https://image2url.com/images/1762514906638-db770637-1681-468e-af87-f6e66966cdb0.png" width="40" height="40"/>
