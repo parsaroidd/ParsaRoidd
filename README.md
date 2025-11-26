@@ -25,7 +25,7 @@ if (project === "Vanilla js") {
 }
 
 ```
-## king terry the terrible!!!
+## RIP king terry the terrible!!!
 <p> 
 <img src="https://image2url.com/images/1763963439859-2de6588a-5b20-4436-9d27-b2f758de2f11.jpg" height=100> 
 </p>
