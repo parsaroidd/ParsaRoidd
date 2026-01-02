@@ -1,4 +1,7 @@
-<img src="https://i.pinimg.com/736x/6d/dd/fe/6dddfeb8a2ed4ed47342449ebd52c200.jpg" height=200> </br> 
+<img src="https://i.pinimg.com/736x/6d/dd/fe/6dddfeb8a2ed4ed47342449ebd52c200.jpg" height=200> </br>
+<img src="https://i.pinimg.com/736x/06/85/b0/0685b0f0c499d664a14c1627c3935398.jpg" height=100> </br>
+<hr>
+
 ## RIP king terry!!!
 <p> 
 <img src="https://image2url.com/images/1763963439859-2de6588a-5b20-4436-9d27-b2f758de2f11.jpg" height=100> 
@@ -8,9 +11,9 @@
   <img src="https://i.pinimg.com/736x/18/4d/a2/184da271e321e698809e14c413b46f3f.jpg" height=100>
   <img src="https://i.pinimg.com/736x/49/73/d7/4973d76ea6f5fc6a92e3feb1b13d3981.jpg" height=100>
   <img src="https://i.pinimg.com/736x/69/c8/0e/69c80e030982f1a952f64c94ba86c7f3.jpg" height=100>
-  <img src="https://i.pinimg.com/736x/06/85/b0/0685b0f0c499d664a14c1627c3935398.jpg" height=100>
+
 </p>
-<br> 
+<hr> 
 <p>
   <img src="https://i.pinimg.com/1200x/91/a9/04/91a9041d12e2f87bcf718293cdc10218.jpg" height=100> 
   <img src="https://i.pinimg.com/1200x/1e/9e/10/1e9e1061ae0187de15fb5580f55b676d.jpg" height=100>
@@ -42,7 +45,7 @@
   <img src="https://i.pinimg.com/736x/0d/05/e1/0d05e15580174205f4b80a19d28412af.jpg" height=100>
   <img src="https://i.pinimg.com/736x/25/18/13/2518138fdacc6e494deb8a2123228306.jpg" height=100> 
 </p>
-<br>
+<hr>
 <p>
   <img src="https://i.pinimg.com/736x/13/d8/37/13d837708c02d06ce409184a5e248bba.jpg" height=100>
   <img src="https://i.pinimg.com/736x/46/1b/40/461b40d983aa4bf433d2d2ca5fecc1f1.jpg" height=100>
