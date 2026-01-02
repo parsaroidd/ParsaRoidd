@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/736x/6d/dd/fe/6dddfeb8a2ed4ed47342449ebd52c200.jpg" height=200><img src="https://i.pinimg.com/736x/06/85/b0/0685b0f0c499d664a14c1627c3935398.jpg" height=100> </br>
+<img src="https://i.pinimg.com/736x/6d/dd/fe/6dddfeb8a2ed4ed47342449ebd52c200.jpg" height=150><img src="https://i.pinimg.com/736x/06/85/b0/0685b0f0c499d664a14c1627c3935398.jpg" height=150> </br>
 <hr>
 
 ## RIP king terry!!!
