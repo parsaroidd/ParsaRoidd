@@ -1,6 +1,3 @@
-<img src="https://i.pinimg.com/736x/6d/dd/fe/6dddfeb8a2ed4ed47342449ebd52c200.jpg" height=150><img src="https://i.pinimg.com/736x/06/85/b0/0685b0f0c499d664a14c1627c3935398.jpg" height=150> </br>
-<hr>
-
 ## RIP king terry!!!
 <p> 
 <img src="https://image2url.com/images/1763963439859-2de6588a-5b20-4436-9d27-b2f758de2f11.jpg" height=100> 
@@ -65,6 +62,8 @@
   <img src="https://i.pinimg.com/736x/2e/33/65/2e33653b158887f6c0431614e49cac71.jpg" height=100>
   <img src="https://i.pinimg.com/736x/c8/fb/a5/c8fba57c026d447113b8b63570d5ae9a.jpg" height=100>
   <img src="https://i.pinimg.com/1200x/ef/4c/65/ef4c656516340be7103770a05f7f7b71.jpg" height=100>
+  <img src="https://i.pinimg.com/736x/6d/dd/fe/6dddfeb8a2ed4ed47342449ebd52c200.jpg" height=100>
+  <img src="https://i.pinimg.com/736x/06/85/b0/0685b0f0c499d664a14c1627c3935398.jpg" height=100> </br>
 </p>
 <!--
 **parsaroidd/ParsaRoidd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
