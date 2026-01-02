@@ -1,5 +1,5 @@
-![1e9e1061ae0187de15fb5580f55b676d](https://github.com/user-attachments/assets/7f7eb63e-990c-4784-9c30-4fd745f21730)
-## RIP king terry the terrible!!!
+<img src="https://i.pinimg.com/736x/6d/dd/fe/6dddfeb8a2ed4ed47342449ebd52c200.jpg" height=200> </br> 
+## RIP king terry!!!
 <p> 
 <img src="https://image2url.com/images/1763963439859-2de6588a-5b20-4436-9d27-b2f758de2f11.jpg" height=100> 
   <img src="https://i.pinimg.com/736x/19/e3/cd/19e3cdd639efa7335bd2a66fc1d9ba91.jpg" height=100>
@@ -7,8 +7,10 @@
   <img src="https://i.pinimg.com/736x/52/fb/27/52fb27ec0f8a9c727d98b177f77efd09.jpg" height=100> 
   <img src="https://i.pinimg.com/736x/18/4d/a2/184da271e321e698809e14c413b46f3f.jpg" height=100>
   <img src="https://i.pinimg.com/736x/49/73/d7/4973d76ea6f5fc6a92e3feb1b13d3981.jpg" height=100>
-  <img src="https://i.pinimg.com/736x/69/c8/0e/69c80e030982f1a952f64c94ba86c7f3.jpg" height=100> 
+  <img src="https://i.pinimg.com/736x/69/c8/0e/69c80e030982f1a952f64c94ba86c7f3.jpg" height=100>
+  <img src="https://i.pinimg.com/736x/06/85/b0/0685b0f0c499d664a14c1627c3935398.jpg" height=100>
 </p>
+<br> 
 <p>
   <img src="https://i.pinimg.com/1200x/91/a9/04/91a9041d12e2f87bcf718293cdc10218.jpg" height=100> 
   <img src="https://i.pinimg.com/1200x/1e/9e/10/1e9e1061ae0187de15fb5580f55b676d.jpg" height=100>
@@ -39,6 +41,28 @@
   <img src="https://i.pinimg.com/736x/36/50/04/3650044e15dd1e6aec26eb867fd5afe7.jpg" height=100>
   <img src="https://i.pinimg.com/736x/0d/05/e1/0d05e15580174205f4b80a19d28412af.jpg" height=100>
   <img src="https://i.pinimg.com/736x/25/18/13/2518138fdacc6e494deb8a2123228306.jpg" height=100> 
+</p>
+<br>
+<p>
+  <img src="https://i.pinimg.com/736x/13/d8/37/13d837708c02d06ce409184a5e248bba.jpg" height=100>
+  <img src="https://i.pinimg.com/736x/46/1b/40/461b40d983aa4bf433d2d2ca5fecc1f1.jpg" height=100>
+  <img src="https://i.pinimg.com/1200x/a0/b8/db/a0b8db46d2067ddb2a92b1fda24250bd.jpg" height=100>
+  <img src="https://i.pinimg.com/736x/65/2b/6a/652b6a20999bd03d0c9a66cd08347908.jpg" height=100>
+  <img src="https://i.pinimg.com/736x/56/73/90/567390df09af3567d6459218074d472e.jpg" height=100>
+  <img src="https://i.pinimg.com/736x/6e/61/38/6e613848fe978f45d0ad9c5d96049015.jpg" height=100>
+  <img src="https://i.pinimg.com/736x/49/1b/5c/491b5cf12b6050169609b7da31f30137.jpg" height=100>
+  <img src="https://i.pinimg.com/736x/77/9d/cc/779dcc5bd18156c66dcb36b361e2549e.jpg" height=100>
+  <img src="https://i.pinimg.com/1200x/8f/1d/75/8f1d756ac8740f533791ca82d8482b2c.jpg" height=100>
+  <img src="https://i.pinimg.com/1200x/31/aa/27/31aa27eb1583a344675544d760fae3d8.jpg" height=100>
+  <img src="https://i.pinimg.com/736x/2f/d8/64/2fd86468ddeed4c17f1ad55b2b4a9de4.jpg" height=100>
+  <img src="https://i.pinimg.com/736x/eb/54/8b/eb548b605cc3ea78097ae4041d639958.jpg" height=100>
+  <img src="https://i.pinimg.com/736x/fe/7d/46/fe7d464493b0b14674bdedb65c617635.jpg" height=100>
+  <img src="https://i.pinimg.com/736x/72/71/16/7271168d7d9c34b8a543dfac2cf1f7f1.jpg" height=100>
+  <img src="https://i.pinimg.com/736x/cb/ad/2b/cbad2b3ba27e0c4cbc3b98d72fb34162.jpg" height=100>
+  <img src="https://i.pinimg.com/736x/8a/72/7d/8a727dfd461cfd22492e21a29108b910.jpg" height=100>
+  <img src="https://i.pinimg.com/736x/2e/33/65/2e33653b158887f6c0431614e49cac71.jpg" height=100>
+  <img src="https://i.pinimg.com/736x/c8/fb/a5/c8fba57c026d447113b8b63570d5ae9a.jpg" height=100>
+  <img src="https://i.pinimg.com/1200x/ef/4c/65/ef4c656516340be7103770a05f7f7b71.jpg" height=100>
 </p>
 <!--
 **parsaroidd/ParsaRoidd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
