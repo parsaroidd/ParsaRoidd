@@ -2,12 +2,12 @@
 ## RIP king terry the terrible!!!
 <p> 
 <img src="https://image2url.com/images/1763963439859-2de6588a-5b20-4436-9d27-b2f758de2f11.jpg" height=100> 
-  <img src="/" height=100>
-  <img src="" height=100>
-  <img src="" height=100> 
-  <img src="" height=100>
-  <img src="" height=100>
-  <img src="" height=100> 
+  <img src="https://i.pinimg.com/736x/19/e3/cd/19e3cdd639efa7335bd2a66fc1d9ba91.jpg" height=100>
+  <img src="https://i.pinimg.com/736x/ec/d2/8c/ecd28c8d56a12ae26d37eaca517a5202.jpg" height=100>
+  <img src="https://i.pinimg.com/736x/52/fb/27/52fb27ec0f8a9c727d98b177f77efd09.jpg" height=100> 
+  <img src="https://i.pinimg.com/736x/18/4d/a2/184da271e321e698809e14c413b46f3f.jpg" height=100>
+  <img src="https://i.pinimg.com/736x/49/73/d7/4973d76ea6f5fc6a92e3feb1b13d3981.jpg" height=100>
+  <img src="https://i.pinimg.com/736x/69/c8/0e/69c80e030982f1a952f64c94ba86c7f3.jpg" height=100> 
 </p>
 <p>
   <img src="https://i.pinimg.com/1200x/91/a9/04/91a9041d12e2f87bcf718293cdc10218.jpg" height=100> 
